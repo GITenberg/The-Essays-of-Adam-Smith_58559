@@ -1,0 +1,37 @@
+_repo: The-Essays-of-Adam-Smith_58559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Adam
+    birthdate: 1723
+    deathdate: 1790
+    gutenberg_agent_id: '1158'
+    url: http://www.gutenberg.org/2009/agents/1158
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Smith
+  editors:
+  - agent_name: Hutton, James
+    alias: Hutton, Jacobus
+    birthdate: 1726
+    deathdate: 1797
+    gutenberg_agent_id: '4675'
+    url: http://www.gutenberg.org/2009/agents/4675
+    wikipedia: http://en.wikipedia.org/wiki/James_Hutton
+  - agent_name: Black, Joseph
+    birthdate: 1728
+    deathdate: 1799
+    gutenberg_agent_id: '26600'
+    url: http://www.gutenberg.org/2009/agents/26600
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Black
+description: ''
+gutenberg_issued: '2018-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Essays of Adam Smith
+url: http://www.gutenberg.org/ebooks/58559
